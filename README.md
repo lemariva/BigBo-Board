@@ -26,8 +26,9 @@ The board can be supplied using:
 Additionally multiple pinouts are available to connect external sensors (e.g. DHT11), servo motors, LEDs etc. For testing uses it can be programmed using the MSP430F5529LP LaunchPad.
 
 ## PCB
-![PCB Board Top Side](https://raw.githubusercontent.com/lemariva/BigBo-Board/master/pics/bigbo_top_side.png)
-![PCB Board Bottom Side](https://raw.githubusercontent.com/lemariva/BigBo-Board/master/pics/bigbo_bottom_side.png)
+|![PCB Board Top Side](https://raw.githubusercontent.com/lemariva/BigBo-Board/master/pics/bigbo_top_side.png)|![PCB Board Bottom Side](https://raw.githubusercontent.com/lemariva/BigBo-Board/master/pics/bigbo_bottom_side.png)|
+|:- |:-|
+
 
 ### Applications
 * Energy Metering & Power Monitoring
