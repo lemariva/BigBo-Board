@@ -2,6 +2,8 @@
 
 BigBo is a multi-target board for Energy Metering & Power Monitoring. It's the big brother of [PiCoBo](https://github.com/lemariva/PiCoBo-Board). I designed it using the MSP430F5529LP that is part of the MSP430 Texas Instruments family of low-power microcontrollers.
 
+More info will be available on https://lemariva.com soon.
+
 ## Components
 The board includes:
 * CP2102 for UART communication (with ESD-Protection)
@@ -37,4 +39,4 @@ Additionally multiple pinouts are available to connect external sensors (e.g. DH
 ### Disclaimer
 Use at your own risk and be careful specially with the 230V AC part.
 
-I ordered the board (I have 10 PCBs over here) but I didn't have enough time to solder the components. I checked the design many times but errors could be over there. I'll be updating the code that I had for the board soon.
+I ordered the board (I have 10 PCBs over here) but I didn't have enough time to solder the components. I've checked the design many times but errors could be over there. I'll be updating the code that I had for the board soon.
